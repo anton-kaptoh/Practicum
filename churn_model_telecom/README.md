@@ -2,6 +2,10 @@
 
 Построить модель оттока клиентов телеком-оператора. Информация о договорах актуальна на 1 февраля 2020.
 
+## Ссылка на полноценный просмотр ноутбука
+
+https://nbviewer.org/github/anton-kaptoh/Practicum/blob/main/churn_model_telecom/ChurnModelTelecom.ipynb
+
 ## Описание данных
 
 * customerID - код клиента
