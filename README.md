@@ -37,7 +37,7 @@ Data Science study projects - Yandex Practicum
             <td> Gradient Boosting, regression, LightGBM, pipeline, scikit-learn, feature_engine, model performance, e-business</td>
         </tr>
         <tr>
-            <td><a href='gold_recover_efficiency_prediction'> Исследование технологического процесса очистки золота </br>( Gold
+            <td><a href='gold_recovery_efficiency_prediction'> Исследование технологического процесса очистки золота </br>( Gold
                     recovery process investigation )</a></td>
             <td>Построена модель для определения доли золота на выходе производственного процесса в завивисомсти от
                 множества его входных параметров. Исследованы концентрации веществ на разных этапах техпроцесса, проведено тщательно 
