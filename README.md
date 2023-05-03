@@ -42,7 +42,7 @@ Data Science study projects - Yandex Practicum
             <td>Построена модель для определения доли золота на выходе производственного процесса в завивисомсти от
                 множества его входных параметров. Исследованы концентрации веществ на разных этапах техпроцесса, проведено тщательно 
                 сравнение обучающей и тестовой выборки.</td>
-            <td>regression, pipeline, scikit-learn, Gradient Boosting, RandomForestRegressor, <span style="background-color:rgb(245, 224, 233)">Matplotlib</span>, seaborn, industry</td>
+            <td>regression, pipeline, scikit-learn, Gradient Boosting, RandomForestRegressor, <span style="background-color:rgb(245, 224, 233)!important">Matplotlib</span>, seaborn, industry</td>
         </tr>
         <tr>
             <td><a href='gold_recovery_efficiency_prediction'> Временные ряды - предсказание нагрузки на сервис такси </br>( Time series - hourly count of taxi orders forecasting )</a></td>
