@@ -44,7 +44,7 @@ Data Science study projects - Yandex Practicum
             <td>regression, pipeline, scikit-learn, Gradient Boosting, RandomForestRegressor, Matplotlib, seaborn, industry</td>
         </tr>
         <tr>
-            <td><a href='taxi_orders_time_frame_prediciton'> Временные ряды - предсказание нагрузки на сервис такси </br>( Time series - hourly count of taxi orders forecasting )</a></td>
+            <td><a href='taxi_orders_time_frame_prediciton'> Временные ряды - предсказание нагрузки на сервис такси </br>( Time series - hourly taxi service load forecasting )</a></td>
             <td>Построена модель регрессии для временных рядов: модель прогнозирует число заказов на следующий час используя данные за предыдущее время. Подбирались отстающие значения, анализировались тренды и сезонность временных рядов. В итоге лучшие результаты показала линейная регрессия, также проведено сравнение быстродействия моделей.</td>
             <td>time series, regression, pipeline, scikit-learn, statsmodels, LinearRegression, LighGBMRegressor, DecisionTreeRegressor, RandomForestRegressor </td>
         </tr>
