@@ -55,10 +55,10 @@ Data Science study projects - Yandex Practicum
         <tr>
             <td valign='top'><a href='mobile_service_tariff_selection'>8. Модель подбора тарифа для клиента мобильного оператора</br>( Mobile services tariff selection model)</a></td>
             <td valign='top'>Разработана модель, подбирающая клиенту оптимальный для перехода тариф мобильной связи. Проведено исследование зависимости различных моделей от их гиперапарметров.  </td>
-            <td valign='top'>hyperparameters analysis, LogisticRegression, DecisionTreeClassifier, RandomForestClassifier, scikit-learn matplotlib, seaborn </td>
+            <td valign='top'>hyperparameters analysis, LogisticRegression, DecisionTreeClassifier, RandomForestClassifier, scikit-learn, matplotlib, seaborn </td>
         </tr>        
         <tr>
-            <td valign='top'><a href='oil_well_region_selection'>9. Выбор региона для разработки нефтяного месторождения (Investigating regions for oil field development) </a></td>
+            <td valign='top'><a href='oil_well_region_selection'>9. Выбор региона для разработки нефтяного месторождения ( Investigating regions for oil field development ) </a></td>
             <td valign='top'>Разработана бизнес-модель для выбора региона для дальнейшей разработки нефтяных месторождений. Для оценки распределения прибыли  региона используятся техника бутстреп.  </td>
             <td valign='top'>bootstrap, matplotlib, LinearRegression, regression </td>
         </tr>
