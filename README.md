@@ -54,9 +54,14 @@ Data Science study projects - Yandex Practicum
             <td>linear algebra, matrix operations, numpy, LinearRegression, regression, pipeline, scikit-learn </td>
         </tr>
         <tr>
-            <td><a href='linear_algebra_data_encryption'>8. Модель подбора тарифа для клиента мобильного оператора</br>( Mobile services tariff selection model)</a></td>
+            <td><a href='mobile_service_tariff_selection'>8. Модель подбора тарифа для клиента мобильного оператора</br>( Mobile services tariff selection model)</a></td>
             <td>Разработана модель, подбирающая клиенту оптимальный для перехода тариф мобильной связи. Проведено исследование зависимости различных моделей от их гиперапарметров.  </td>
             <td>hyperparameters analysis, LogisticRegression, DecisionTreeClassifier, RandomForestClassifier, scikit-learn matplotlib, seaborn </td>
+        </tr>        
+        <tr>
+            <td><a href='oil_well_region_selection'>9. Выбор региона для разработки нефтяного месторождения (Investigating regions for oil field development) </a></td>
+            <td>Разработана бизнес-модель для выбора региона для дальнейшей разработки нефтяных месторождений. Для оценки распределения прибыли  региона используятся техника бутстреп.  </td>
+            <td>bootstrap, matplotlib, LinearRegression, regression </td>
         </tr>
     <tbody>
 <table>
