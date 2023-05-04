@@ -53,5 +53,10 @@ Data Science study projects - Yandex Practicum
             <td>Разработан алгоритм для шифрования данных с помощью матричных операций. Доказано аналитчески и экспериментально, что алгоритм не влияет на функцию потерь и качество обучения ML-модели сохраняется.  </td>
             <td>linear algebra, matrix operations, numpy, LinearRegression, regression, pipeline, scikit-learn </td>
         </tr>
+        <tr>
+            <td><a href='linear_algebra_data_encryption'>8. Модель подбора тарифа для клиента мобильного оператора</br>( Mobile services tariff selection model)</a></td>
+            <td>Разработана модель, подбирающая клиенту оптимальный для перехода тариф мобильной связи. Проведено исследование зависимости различных моделей от их гиперапарметров.  </td>
+            <td>hyperparameters analysis, LogisticRegression, DecisionTreeClassifier, RandomForestClassifier, scikit-learn matplotlib, seaborn </td>
+        </tr>
     <tbody>
 <table>
