@@ -48,5 +48,10 @@ Data Science study projects - Yandex Practicum
             <td>Построена модель регрессии для временных рядов: модель прогнозирует число заказов на следующий час используя данные за предыдущее время. Подбирались отстающие значения, анализировались тренды и сезонность временных рядов. В итоге лучшие результаты показала линейная регрессия, также проведено сравнение быстродействия моделей.</td>
             <td>time series, regression, pipeline, scikit-learn, statsmodels, LinearRegression, LighGBMRegressor, DecisionTreeRegressor, RandomForestRegressor </td>
         </tr>
+        <tr>
+            <td><a href='taxi_orders_time_frame_prediciton'> Линейная алгебра, шифрование личных данных клиентов</br>( Linear algebra, clients data encryption )</a></td>
+            <td>Разработан алгоритм для шифрования данных с помощью матричных операций. Доказано аналитчески и экспериментально, что алгоритм не влияет на функцию потерь и качество обучения ML-модели сохраняется.  </td>
+            <td>linear algebra, matrix operations, numpy, LinearRegression, regression, pipeline, scikit-learn, LinearRegression </td>
+        </tr>
     <tbody>
 <table>
