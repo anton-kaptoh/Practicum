@@ -12,8 +12,7 @@ Data Science study projects - Yandex Practicum
                     telecommunications company )</a></td>
             <td>Построена модель оттока клиентов компании предоставляющей услуги интернета и телефонии. Строились
                 пайплайны для различных моделей, подбирались гиперпараметры с помощью Optuna.</td>
-            <td>classification, pandas, scikit-learn, EDA, pipeline, Optuna, CatBoost, RandomForest, LogisticRegression,
-                <span style="background-color:rgb(245, 224, 233)">Matplotlib</span>, seaborn </td>
+            <td>classification, pandas, scikit-learn, EDA, pipeline, Optuna, CatBoost, RandomForest, LogisticRegression, Matplotlib, seaborn </td>
         </tr>
         <tr>
             <td><a href='text_toxicity_classification'>Модель классификации токсичных комментариев</br>( Text toxicity
@@ -30,7 +29,7 @@ Data Science study projects - Yandex Practicum
             <td>CV, regression, Keras, image processing </td>
         </tr>
         <tr>
-            <td><a href='car_price_prediction'> Модель предсказания рыночной цены автомобиля </br>( Car price prediction
+            <td><a href='car_price_prediction'> Модель предсказания рыночной цены автомобиля c пробегом </br>( Car price prediction
                     model )</a></td>
             <td>Построена модель для определения стоимости автомобиля на основе LightGBM. Также произведено ее сравнение
                 с другими моделями и проанализировано их быстродействие.</td>
@@ -42,10 +41,10 @@ Data Science study projects - Yandex Practicum
             <td>Построена модель для определения доли золота на выходе производственного процесса в завивисомсти от
                 множества его входных параметров. Исследованы концентрации веществ на разных этапах техпроцесса, проведено тщательно 
                 сравнение обучающей и тестовой выборки.</td>
-            <td>regression, pipeline, scikit-learn, Gradient Boosting, RandomForestRegressor, <span style="background-color:rgb(245, 224, 233)!important">Matplotlib</span>, seaborn, industry</td>
+            <td>regression, pipeline, scikit-learn, Gradient Boosting, RandomForestRegressor, Matplotlib, seaborn, industry</td>
         </tr>
         <tr>
-            <td><a href='gold_recovery_efficiency_prediction'> Временные ряды - предсказание нагрузки на сервис такси </br>( Time series - hourly count of taxi orders forecasting )</a></td>
+            <td><a href='taxi_orders_time_frame_prediciton'> Временные ряды - предсказание нагрузки на сервис такси </br>( Time series - hourly count of taxi orders forecasting )</a></td>
             <td>Построена модель регрессии для временных рядов: модель прогнозирует число заказов на следующий час используя данные за предыдущее время. Подбирались отстающие значения, анализировались тренды и сезонность временных рядов. В итоге лучшие результаты показала линейная регрессия, также проведено сравнение быстродействия моделей.</td>
             <td>time series, regression, pipeline, scikit-learn, statsmodels, LinearRegression, LighGBMRegressor, DecisionTreeRegressor, RandomForestRegressor </td>
         </tr>
