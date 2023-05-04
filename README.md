@@ -49,7 +49,7 @@ Data Science study projects - Yandex Practicum
             <td>time series, regression, pipeline, scikit-learn, statsmodels, LinearRegression, LighGBMRegressor, DecisionTreeRegressor, RandomForestRegressor </td>
         </tr>
         <tr>
-            <td><a href='taxi_orders_time_frame_prediciton'> Линейная алгебра, шифрование личных данных клиентов</br>( Linear algebra, clients data encryption )</a></td>
+            <td><a href='linear_algebra_data_encryption'> Линейная алгебра, шифрование личных данных клиентов</br>( Linear algebra, clients data encryption )</a></td>
             <td>Разработан алгоритм для шифрования данных с помощью матричных операций. Доказано аналитчески и экспериментально, что алгоритм не влияет на функцию потерь и качество обучения ML-модели сохраняется.  </td>
             <td>linear algebra, matrix operations, numpy, LinearRegression, regression, pipeline, scikit-learn, LinearRegression </td>
         </tr>
